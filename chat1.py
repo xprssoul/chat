@@ -1,4 +1,4 @@
-#讀取檔案、寫入檔案、會用到continue
+#讀取檔案、寫入檔案、會用到continue、None適合用來當預設值
 
 def read_file(filename): #讀取檔案
     lines = []
